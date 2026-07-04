@@ -17,6 +17,12 @@
           "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/芒果TV.py"
         },
 		{
+          "key": "YK",
+          "name": "🐬优酷视频.py[追剧]",
+          "type": 3,
+          "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/优酷视频.py"
+        },
+		{
 			"key": "kf",
 			"name": "🐬咖啡体育直播.py[直播]",
 			"type": 3,
