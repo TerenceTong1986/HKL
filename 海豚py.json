@@ -54,6 +54,12 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/瓜子APP.py"
 		},
 		{
+			"key": "XHS",
+			"name": "🐬小红薯APP.pyy",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/小红薯APP.py"
+		},
+		{
 			"key": "nvm",
 			"name": "🐬泥视频.py",
 			"type": 3,
