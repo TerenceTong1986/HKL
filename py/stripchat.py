@@ -178,7 +178,7 @@ class Spider(Spider):
                 url.append(qn)
                 url.append(proxy_url)
         result = {}
-        result["url"] = url
+        result[]
         result["parse"] = '0'
         result["contentType"] = ''
         result["header"] = self.headers
