@@ -3,7 +3,7 @@
   searchable: 1,
   filterable: 1,
   quickSearch: 1,
-  title: '端木视频',
+  title: '端木',
   lang: 'hipy'
 })
 """
